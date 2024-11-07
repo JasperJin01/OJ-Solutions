@@ -24,10 +24,9 @@ public class P738_MonotoneIncreasingDigits {
             ss[i] = '9';
         return Integer.valueOf(new String(ss));
     }
-    // Java 将int转换成String: Integer.toString(123); String.valueOf(123);
-    // Java 将String转换成int: Integer.valueOf("299"); Integer.parseInt("299");
-    // Java 将String转换成char[]: String ss = "helloworld"; char[] str =
-    // ss.toCharArray();
-    // Java 将char[]转换成String: String ss = new String(str);
-
+    // NOTE
+    //  Java 将int转换成String: Integer.toString(123); String.valueOf(123);
+    //  Java 将String转换成int: Integer.valueOf("299"); Integer.parseInt("299");
+    //  Java 将String转换成char[]: String ss = "helloworld"; char[] str =ss.toCharArray();
+    //  Java 将char[]转换成String: String ss = new String(str);
 }
