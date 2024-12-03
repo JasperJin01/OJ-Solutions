@@ -1,11 +1,11 @@
-// https://leetcode.cn/problems/candy/
+package study.dmsxl.greedy;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class P135_Candy {
+    // // https://leetcode.cn/problems/candy/
 
-    
     public static int candy_error(int[] ratings) {
         int N = ratings.length;
         List<int[]> list = new ArrayList<>();

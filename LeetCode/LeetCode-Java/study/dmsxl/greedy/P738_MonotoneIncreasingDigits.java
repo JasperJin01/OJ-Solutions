@@ -1,3 +1,5 @@
+package study.dmsxl.greedy;
+
 // https://leetcode.cn/problems/monotone-increasing-digits/
 public class P738_MonotoneIncreasingDigits {
     // date: 2024-11-05

@@ -1,4 +1,4 @@
-
+package study.dmsxl.greedy;
 // https://leetcode.cn/problems/binary-tree-cameras/
 
 public class P968_BinaryTreeCameras {

@@ -1,8 +1,12 @@
+package study.dmsxl.greedy;
+
 import java.util.ArrayList;
 import java.util.List;
 
-// https://leetcode.cn/problems/partition-labels/
+
 public class P763_PartitionLabels {
+    // https://leetcode.cn/problems/partition-labels/
+
     // date: 2024-11-04
     // 这个题目，从前往后遍历，遍历到当前字符c，那么后续的所有c字符就必须包含到当前子串中
     // 所以一定需要知道每个字符最后出现在字符串的哪里（从后向前遍历一遍就可）

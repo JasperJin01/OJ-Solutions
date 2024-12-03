@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/merge-intervals/
+package study.dmsxl.greedy;// https://leetcode.cn/problems/merge-intervals/
 
 import java.util.ArrayList;
 import java.util.Arrays;

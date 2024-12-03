@@ -1,3 +1,5 @@
+package study.dmsxl.greedy;
+
 // https://leetcode.cn/problems/lemonade-change/
 public class P860_LemonadeChange {
 
